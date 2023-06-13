@@ -88,16 +88,14 @@ docker run -d -p 8000:8000 amazon/dynamodb-local -jar DynamoDBLocal.jar -sharedD
 ```
 
 open the nosql workbench and setup the connection
-
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f829285-1a07-476d-bb52-d432ffd7fcba/Untitled.png)
 
-## Documentation
-
+### Documentation
 [index.html](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa249af9-f5e2-424d-873c-d91e69254dc6/index.html)
 
-## Sample
-
+### Sample
 [areixlib_sample.py](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a0d0e72-db5f-42f9-a75a-3c91f3df48fb/areixlib_sample.py)
+
 
 ## Documentation
 
